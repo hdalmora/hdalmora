@@ -3,9 +3,9 @@
 ## Hi 👋, 
 I'm Henrique Dal' Mora, a Telecommunications Engineer 😝 who is passionate about mobile/web technologies. I am a total 💘Flutter Geek, completely in love with it and always seeking ways for improvement. 
 
-- 🔨 I’m currently working with native Android App development within BeerTech 🍺 Anheuser-Busch Inbev
+- 🔨 I’m currently working with Front-end development (React) within BeerTech 🍺 Anheuser-Busch Inbev
 - ⭐ Recently started a Youtube channel where I try to teach a little bit about Flutter. Hope I can keep up with it! 
-- 💥 Always Learning new things (especially about Flutter 👀)
+- 💥 Always Learning new things (especially about Flutter and React 👀)
 - 🎉 Currently studying more about Back-end development with Spring Boot 🍃
 - ⚡ Languages: Java, Kotlin, Dart, JavaScript
 
