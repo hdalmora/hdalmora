@@ -16,7 +16,7 @@ npx hdalmora get-toknow --linkedin=hdalmora --twitter=@hdalmoraz
 
 I've been developing software for the past 4 years, mainly focusing on Front-End development.
 
-In 2019, I had the opportunity to work as a Summer Intern at a Startup in Japan, where I got the chance to be part of a multicultural team and grow professionally. During this experience, I Helped create an HR-Tech platform called [@Jobwher](https://jobwher.com/en), responsible for connecting Japanese companies to High Skilled professionals around the globe.
+I had the opportunity to work in a Summer Job at a Startup in Japan, where I got the chance to be part of a multicultural team and grow professionally. During this experience, I Helped create an HR-Tech platform called [@Jobwher](https://jobwher.com/en), responsible for connecting Japanese companies to High Skilled professionals around the globe.
 
 ---
 
