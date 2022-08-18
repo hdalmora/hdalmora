@@ -10,7 +10,7 @@
 
 I'm <strong>Henrique Dal' Mora</strong>, a Telecommunications Engineer 😝 who is passionate about mobile/web technologies. I am a total 💘 Flutter and React Geek, completely in love with it and always seeking ways for improvement. 
 
-- 🔨 I’m a Front-end Engineer working [@Trustly](https://www.linkedin.com/company/trustly/)
+- 🔨 I’m a Front-end Engineer working [@FM](https://www.linkedin.com/company/fm-co/mycompany/)
 - ⭐ Started a [Youtube channel](https://www.youtube.com/c/HenriqueDalMora) where I try to teach a little bit about Front-end development.
 - 🎉 Currently studying more about Back-end development with <strong>Node.Js</strong>
 - ⚡ Languages: Java, Kotlin, Dart, JavaScript, Typescript
