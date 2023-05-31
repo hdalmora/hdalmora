@@ -8,7 +8,7 @@
 </a>
 </br></br>
 
-I'm <strong>Henrique Dal' Mora</strong>, a Telecommunications Engineer 😝 who is passionate about mobile/web technologies. I am a total 💘 Flutter and React Geek, completely in love with it and always seeking ways for improvement. 
+I'm <strong>Henrique Dal' Mora</strong>,
 
 - 🔨 I’m a Front-end Engineer working [@FM](https://www.linkedin.com/company/fm-co/mycompany/)
 - ⭐ Started a [Youtube channel](https://www.youtube.com/c/HenriqueDalMora) where I try to teach a little bit about Front-end development.
